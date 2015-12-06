@@ -3,10 +3,15 @@ Calendars
 
 Simple Photography project
 
+## 2016
+
+### Ocher Dream
+![2016](calendar-2016.png)
+
 ## 2015
 
 ### Looking for...
-![2015a](https://raw.githubusercontent.com/mad4j/calendars/master/calendar-2015a.jpg)
+![2015a](calendar-2015a.jpg)
 
 ### Side view
-![2015b](https://raw.githubusercontent.com/mad4j/calendars/master/calendar-2015b.jpg)
+![2015b](calendar-2015b.jpg)
