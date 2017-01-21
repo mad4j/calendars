@@ -11,6 +11,9 @@ Simple Photography project
 ### MAXXI
 ![2017b](calendar-2017b.jpg)
 
+### La nuotatrice
+![2017c](calendar-2017c.jpg)
+
 ## 2016
 
 ### Learning to Fly
