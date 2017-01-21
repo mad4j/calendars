@@ -3,6 +3,14 @@ Calendars
 
 Simple Photography project
 
+## 2017
+
+### Sul lago
+![2017a](calendar-2017a.jpg)
+
+### MAXXI
+![2017b](calendar-2017b.jpg)
+
 ## 2016
 
 ### Learning to Fly
