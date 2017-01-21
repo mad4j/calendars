@@ -1,8 +1,6 @@
 Calendars
 =========
 
-Simple Photography project
-
 ## 2017
 <img src="calendar-2017a.jpg" width=320 title="Sul lago" />
 <img src="calendar-2017b.jpg" width=320 title="MAXXI" />
