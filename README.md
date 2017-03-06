@@ -3,11 +3,10 @@ Calendars
 
 ## 2017
 
-<span markdown="1">
-    <img src="prints/calendar-2017a.jpg" width=320 title="Sul lago" />
-    <img src="prints/calendar-2017b.jpg" width=320 title="MAXXI" />
-    <img src="prints/calendar-2017c.jpg" width=320 title="La nuotatrice" />
-</span>
+<img src="prints/calendar-2017a.jpg" width=320 title="Sul lago" />
+<img src="prints/calendar-2017b.jpg" width=320 title="MAXXI" />
+<img src="prints/calendar-2017c.jpg" width=320 title="La nuotatrice" />
+
 
 ## 2016
 <img src="prints/calendar-2016a.jpg" width=320 title="Learning to fly" />
