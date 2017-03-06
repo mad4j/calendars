@@ -2,7 +2,7 @@ Calendars
 =========
 
 ## 2017
-<img src="{{ site.baseurl }}/prints/calendar-2017a.jpg" width=320 title="Sul lago" />
+<img src="{{ site.url }}{{ site.baseurl }}/prints/calendar-2017a.jpg" width=320 title="Sul lago" />
 <img src="prints/calendar-2017b.jpg" width=320 title="MAXXI" />
 <img src="prints/calendar-2017c.jpg" width=320 title="La nuotatrice" />
 
