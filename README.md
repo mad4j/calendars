@@ -4,20 +4,34 @@ Calendars
 ## 2017
 
 ![Sul lago](prints/calendar-2017a.jpg)
+
 ![MAXXI](prints/calendar-2017b.jpg)
+
 ![La nuotatrice](prints/calendar-2017c.jpg)
 
+
 ## 2016
-<img src="prints/calendar-2016a.jpg" width=320 title="Learning to fly" />
-<img src="prints/calendar-2016b.jpg" width=320 title="Horizons" />
-<img src="prints/calendar-2016c.jpg" width=320 title="Ocher dream" />
+
+![Learning to fly](prints/calendar-2016a.jpg)
+
+![Horizons](prints/calendar-2016b.jpg)
+
+![Ocher dream](prints/calendar-2016c.jpg)
+
 
 ## 2015
-<img src="prints/calendar-2015a.jpg" width=320 title="Looking for..." />
-<img src="prints/calendar-2015b.jpg" width=320 title="Side view" />
+
+![Looking for...](prints/calendar-2015a.jpg)
+
+![Side view](prints/calendar-2015b.jpg)
+
 
 ## 2014
-<img src="prints/calendar-2014a.jpg" width=320 title="Learning to fly" />
-<img src="prints/calendar-2014b.jpg" width=320 title="Horizons" />
-<img src="prints/calendar-2014c.jpg" width=320 title="Ocher dream" />
-<img src="prints/calendar-2014d.jpg" width=320 title="Ocher dream" />
+
+![Side view](prints/caledar-2014a.jpg)
+
+![Side view](prints/caledar-2014b.jpg)
+
+![Side view](prints/caledar-2014c.jpg)
+
+![Side view](prints/caledar-2014d.jpg)
