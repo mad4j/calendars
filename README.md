@@ -1,14 +1,11 @@
-{::options parse_block_html="true" /}
-
 Calendars
 =========
 
 ## 2017
 
-<img src="prints/calendar-2017a.jpg" width=320 title="Sul lago" />
-<img src="prints/calendar-2017b.jpg" width=320 title="MAXXI" />
-<img src="prints/calendar-2017c.jpg" width=320 title="La nuotatrice" />
-
+![Sul lago](prints/calendar-2017a.jpg)
+![MAXXI](prints/calendar-2017b.jpg)
+![La nuotatrice](prints/calendar-2017c.jpg)
 
 ## 2016
 <img src="prints/calendar-2016a.jpg" width=320 title="Learning to fly" />
