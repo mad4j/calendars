@@ -4,6 +4,7 @@ Calendars
 ## 2017
 
 ![Sul lago](prints/calendar-2017a.jpg)
+
 ![MAXXI](prints/calendar-2017b.jpg)
 
 ![La nuotatrice](prints/calendar-2017c.jpg)
