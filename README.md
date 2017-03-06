@@ -28,10 +28,10 @@ Calendars
 
 ## 2014
 
-![Side view](prints/caledar-2014a.jpg)
+![Side view](prints/calendar-2014a.jpg)
 
-![Side view](prints/caledar-2014b.jpg)
+![Side view](prints/calendar-2014b.jpg)
 
-![Side view](prints/caledar-2014c.jpg)
+![Side view](prints/calendar-2014c.jpg)
 
-![Side view](prints/caledar-2014d.jpg)
+![Side view](prints/calendar-2014d.jpg)
