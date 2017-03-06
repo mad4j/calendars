@@ -4,9 +4,9 @@ Calendars
 ## 2017
 
 <div>
-<img src="prints/calendar-2017a.jpg" width=320 title="Sul lago" />
-<img src="prints/calendar-2017b.jpg" width=320 title="MAXXI" />
-<img src="prints/calendar-2017c.jpg" width=320 title="La nuotatrice" />
+    <img src="prints/calendar-2017a.jpg" width=320 title="Sul lago" />
+    <img src="prints/calendar-2017b.jpg" width=320 title="MAXXI" />
+    <img src="prints/calendar-2017c.jpg" width=320 title="La nuotatrice" />
 </div>
 
 ## 2016
