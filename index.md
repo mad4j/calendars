@@ -3,35 +3,24 @@ Calendars
 
 ## 2017
 
-![Sul lago](prints/calendar-2017a.jpg){:width="200px"}
-
-![MAXXI](prints/calendar-2017b.jpg)
-
-![La nuotatrice](prints/calendar-2017c.jpg)
-
+![Sul lago](prints/calendar-2017a.jpg){:width=512}
+![MAXXI](prints/calendar-2017b.jpg){:width=512}
+![La nuotatrice](prints/calendar-2017c.jpg){:width=512}
 
 ## 2016
 
-![Learning to fly](prints/calendar-2016a.jpg)
-
-![Horizons](prints/calendar-2016b.jpg)
-
-![Ocher dream](prints/calendar-2016c.jpg)
-
+![Learning to fly](prints/calendar-2016a.jpg){:width=512}
+![Horizons](prints/calendar-2016b.jpg){:width=512}
+![Ocher dream](prints/calendar-2016c.jpg){:width=512}
 
 ## 2015
 
-![Looking for...](prints/calendar-2015a.jpg)
-
-![Side view](prints/calendar-2015b.jpg)
-
+![Looking for...](prints/calendar-2015a.jpg){:width=512}
+![Side view](prints/calendar-2015b.jpg){:width=512}
 
 ## 2014
 
-![Side view](prints/calendar-2014a.jpg)
-
-![Side view](prints/calendar-2014b.jpg)
-
-![Side view](prints/calendar-2014c.jpg)
-
-![Side view](prints/calendar-2014d.jpg)
+![Side view](prints/calendar-2014a.jpg){:width=512}
+![Side view](prints/calendar-2014b.jpg){:width=512}
+![Side view](prints/calendar-2014c.jpg){:width=512}
+![Side view](prints/calendar-2014d.jpg){:width=512}
