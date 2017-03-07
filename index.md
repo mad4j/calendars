@@ -3,7 +3,7 @@ Calendars
 
 ## 2017
 
-![Sul lago](prints/calendar-2017a.jpg){: width=200px}
+![Sul lago](prints/calendar-2017a.jpg){:width="200px"}
 
 ![MAXXI](prints/calendar-2017b.jpg)
 
