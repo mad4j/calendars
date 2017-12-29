@@ -1,6 +1,15 @@
 Calendars
 =========
 
+## 2018
+
+![Tramonto](prints/calendar-2018a.jpg)
+
+![Scalinata](prints/calendar-2018b.jpg)
+
+![Nilo](prints/calendar-2018c.jpg)
+
+
 ## 2017
 
 ![Sul lago](prints/calendar-2017a.jpg)
