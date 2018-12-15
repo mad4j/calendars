@@ -3,9 +3,9 @@ Calendars
 
 ## 2019
 
-![01](prints/calendar-2019a.jpg)
+![01](prints/calendar-2019a.png)
 
-![02](prints/calendar-2019b.jpg)
+![02](prints/calendar-2019b.png)
 
 
 ## 2018
