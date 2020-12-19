@@ -1,6 +1,15 @@
 Calendars
 =========
 
+## 2021
+
+![01](prints/calendar-2021a.png)
+
+![02](prints/calendar-2021b.png)
+
+![03](prints/calendar-2021c.png)
+
+
 ## 2020
 
 ![01](prints/calendar-2020a.png)
